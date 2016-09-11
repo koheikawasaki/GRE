@@ -1,0 +1,19 @@
+Here I'm going to write down the sample answer fro Analitical writing for practice/
+
+The list of phrases that can be used messages of commit
+Add ambiences to admin_notify_organizer_new_event email
+
+Remove config/database.yml from git index and add it to gitignore
+
+Move admin_notify_venues_shortlisted email from LeadMailer to AdminMain Mailer
+
+Replace the elaborate reloading connection checking with testing system
+
+Make javascript_include_tag :default behave correctly with application.js
+Make counter_cache work with polymorphic belongs_to
+
+Change Bootstrapbased current system to and wordpressbased system
+
+Update edge to script.aculo.us to 1.7.1_beta3
+
+Ensure that request.path never returns nil
